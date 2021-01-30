@@ -18,7 +18,8 @@ The files are organized as follow:
 Here are some plot of diffuse, specular and total reflectivities for both sides (bright and dull) of an household aluminum foil. 
 
 Household aluminum foil diffuse reflectivity, at two different points on each side. Black: bright side, gray: matte side.
-
+<script type="text/javascript">window.PlotlyConfig = { MathJaxConfig: 'local' };</script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <div id="e9aa11f7-a107-43b0-baca-f7a751e8a387" class="plotly-graph-div" style="height:100%; width:100%;"></div>
 <script type="text/javascript">
     window.PLOTLYENV=window.PLOTLYENV || {};
