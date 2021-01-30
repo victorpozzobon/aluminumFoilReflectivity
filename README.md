@@ -12,3 +12,5 @@ WIP
 # Graphs
 
 Here are some plot of total and specular reflectivity for both sides (bright and dull) of an household aluminum foil. 
+
+# Contact
