@@ -15,14 +15,14 @@ The files are organized as follow:
 
 # Graphs
 
-Here are some plot of diffuse, specular and total reflectivities for both sides (bright and dull) of an household aluminum foil. 
+Here are some plot of diffuse and specular reflectivities for both sides (bright and dull) of an household aluminum foil. 
 
-Household aluminum foil diffuse reflectivity, at two different points on each side. Black: bright side, gray: matte side.
-![Image not found](https://github.com/victorpozzobon/blob/main/images/lol.png?raw=true)
+Household aluminum foil diffuse reflectivity, at two different points on each side.
+![Image not found](./Fig_Diffuse.png?raw=true)
 
-Household aluminum foil specular reflectivity, at two different points on each side. Black: bright side, gray: matte side.
+Household aluminum foil specular reflectivity, at two different points on each side.
+![Image not found](./Fig_Specular.png?raw=true)
 
-Household aluminum foil total reflectivity, at two different points on each side. Black: bright side, gray: matte side.
 
 # Contact
 
