@@ -7,7 +7,7 @@ You can also find the data on [Mendeley data](https://data.mendeley.com/datasets
 
 # Structure
 
-The files are organized as follow:
+The data file (*Diffuse_and_Specular_for_Bright_and_Matte_sides.txt*) is organized as follow:
 * it is a text where values are delimited by a space
 * the first column it the wavelength in nanometer (1 nm resolution measurements)
 * columns are then sorted out by sample: 1 & 2 for first measurement point on the dull/matte side, 3 & 4 for the second point on dull/matte side, 5 & 6 first point for the bright side and 7 & second point for the bright side
