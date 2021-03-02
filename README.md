@@ -5,13 +5,14 @@ Repository hosting the aluminum foil reflectivity measurements associated to the
 Note: the article is in open access.
 You can also find the data on [Mendeley data](https://data.mendeley.com/datasets/gzzs4876vf/1).
 
-# Structure
+# Data and structure
 
+The measurements range from 250 to 2500 nm. They are given in %. 
 The data file (*Diffuse_and_Specular_for_Bright_and_Matte_sides.txt*) is organized as follow:
 * it is a text where values are delimited by a space
-* the first column it the wavelength in nanometer (1 nm resolution measurements)
+* the first column it the wavelength in nanometer (1 nm resolution measurements), the unit id in nm
 * columns are then sorted out by sample: 1 & 2 for first measurement point on the dull/matte side, 3 & 4 for the second point on dull/matte side, 5 & 6 first point for the bright side and 7 & second point for the bright side
-* for a given measurement point, the first column is the diffuse component and the second column is the specular component of the reflectivity
+* for a given measurement point, the first column is the diffuse component and the second column is the specular component of the reflectivity, the unit is %
 
 # Graphs
 

@@ -1,4 +1,4 @@
-Wavelength Dull_1_Diffuse Dull_1_Specular Dull_2_Diffuse Dull_2_Specular Bright_1_Diffuse Bright_1_Specular Bright_2_Diffuse Bright_2_Specular
+Wavelength_nm Dull_1_Diffuse_% Dull_1_Specular_% Dull_2_Diffuse_% Dull_2_Specular_% Bright_1_Diffuse_% Bright_1_Specular_% Bright_2_Diffuse_% Bright_2_Specular_%
 2500.0 67.56166077 37.82859803 70.33132935 33.80661775 27.47856331 73.62833209 34.10712433 65.7264862
 2498.0 64.68776703 42.13628387 70.47956085 34.47306065 31.73856354 69.55109406 32.19406128 68.90126802
 2496.0 67.31009674 37.53382876 70.21492004 33.93881226 29.4798336 72.726923 33.62503815 67.38895415
